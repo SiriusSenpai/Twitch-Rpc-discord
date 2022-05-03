@@ -17,7 +17,6 @@ os.system('cls')
 os.system(f'cls & mode 85,20 & title [Twitch Rpc]'),
 print(Colorate.Horizontal(Colors.blue_to_purple,
 f"""
-
 ████████╗██╗    ██╗██╗████████╗ ██████╗██╗  ██╗
 ╚══██╔══╝██║    ██║██║╚══██╔══╝██╔════╝██║  ██║
    ██║   ██║ █╗ ██║██║   ██║   ██║     ███████║
