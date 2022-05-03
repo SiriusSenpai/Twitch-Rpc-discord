@@ -6,7 +6,7 @@
 
 # Important 
 - i will not take any responsibility over whatever you are going to do with this 
-- this can be considered a self bot witch is against discord tos 
+- this can be considered a self bot which is against Discord tos 
 - So use at your own risk!
 
 # Installation
