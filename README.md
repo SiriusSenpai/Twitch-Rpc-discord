@@ -1,7 +1,7 @@
 # Twitch-Rpc-discord
-This changes your discord status to a twitch status without streaming
-If your having problem with this program you can dm Maki#8154
-Skid if you please! 
+- This changes your discord status to a twitch status without streaming
+- If your having problem with this program you can dm Maki#8154
+- Skid if you please! 
 
 # Installation
 
