@@ -7,7 +7,8 @@
 
 - Make sure to install python if you havent already 
 - then open the run.bat file and let it install the required modules 
-- once that finishs installing the modules it should the file! 
+- once that finishs installing the modules it should run the file!
+- You can also cmd into the the file and type python rpc.py
 
 # How to use 
 
