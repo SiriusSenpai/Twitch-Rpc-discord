@@ -4,6 +4,11 @@
 - Skid if you please! 
 - If you have any concerns of this being a logger or anything malicious you can go through the code!
 
+# Important 
+- i will not take any responsibility over whatever you are going to do with this 
+- this can be considered a self bot witch is against discord tos 
+- So use at your own risk!
+
 # Installation
 
 - Make sure to install python if you havent already 
