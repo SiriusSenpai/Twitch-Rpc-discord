@@ -1,0 +1,2 @@
+discord.py==1.5.1
+pystyle==1.5
