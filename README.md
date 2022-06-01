@@ -1,6 +1,6 @@
 # Twitch-Rpc-discord
 - This changes your discord status to a twitch status without streaming
-- If your having problem with this program you can dm Sirius#7749
+- If your having problem with this program you can dm Auro#7749
 - Skid if you please! 
 - If you have any concerns of this being a logger or anything malicious you can go through the code!
 
